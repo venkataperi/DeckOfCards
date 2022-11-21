@@ -1,0 +1,8 @@
+D:\WPF\DeckOfCards-master\DeckOfCards\bin\Debug\DeckOfCards.exe.config
+D:\WPF\DeckOfCards-master\DeckOfCards\bin\Debug\DeckOfCards.exe
+D:\WPF\DeckOfCards-master\DeckOfCards\bin\Debug\DeckOfCards.pdb
+D:\WPF\DeckOfCards-master\DeckOfCards\obj\Debug\DeckOfCards.csproj.AssemblyReference.cache
+D:\WPF\DeckOfCards-master\DeckOfCards\obj\Debug\DeckOfCards.csproj.SuggestedBindingRedirects.cache
+D:\WPF\DeckOfCards-master\DeckOfCards\obj\Debug\DeckOfCards.csproj.CoreCompileInputs.cache
+D:\WPF\DeckOfCards-master\DeckOfCards\obj\Debug\DeckOfCards.exe
+D:\WPF\DeckOfCards-master\DeckOfCards\obj\Debug\DeckOfCards.pdb
